@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matin-damghani
 - 👀 I’m interested in programing and security
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on nothing (yet)
+- 💞️ I’m looking to collaborate on : (DL,ML,Network,pythonic projects)
 - 📫 How to reach me my E-mail : matindamghan2@gmail.com and telegram : @eren_sakaki
 - ⚡ a normall student who trys to be better always .
 
